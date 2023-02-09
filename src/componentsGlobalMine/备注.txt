@@ -1,0 +1,10 @@
+因为全局组件没法注册，所以原本应该在components文件夹的文件就写在本文件夹了。
+
+有的可能已经写在pages文件夹了，应该移动到components文件夹的，
+比如：｛
+
+\src\pages\Home\TypeNavigator
+
+
+
+｝
